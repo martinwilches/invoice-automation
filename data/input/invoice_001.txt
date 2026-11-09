@@ -1,0 +1,6 @@
+invoice_number=FAC-001
+supplier=Proveedor ABC
+date=2026-11-05
+subtotal=150000
+tax=28500
+total=178500

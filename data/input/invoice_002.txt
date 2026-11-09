@@ -1,0 +1,6 @@
+invoice_number=FAC-002
+supplier=Proveedor XYZ
+date=2026-11-04
+subtotal=200000
+tax=38000
+total=238000

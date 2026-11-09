@@ -1,0 +1,6 @@
+invoice_number=FAC-003
+supplier=Proveedor DEF
+date=2026-11-03
+subtotal=100000
+tax=19000
+total=130000
